@@ -49,9 +49,9 @@ education:
       time: 2002 - 2005
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: #Tech Lead
+      time: 2008 - Present
+      company: TCS, USA
       details: |
         Expertise in microservices design using spring boot and RDBMS.
           - Design Architecture Diagrams
