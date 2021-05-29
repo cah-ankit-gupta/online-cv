@@ -137,10 +137,9 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Certifications
-    intro: |
-      SCJP, SCWCD
+certifications:
+      - item: SCJP
+      - item: SCWCD
 
 skills:
     title: Skills
