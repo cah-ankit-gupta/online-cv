@@ -15,8 +15,11 @@
     {% for skill in skills.toolset %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
-      <h5>{{ skill.detail }}</h3>
+<!--       <h3 class="level-title">{{ skill.name }}</h3> -->
+<!--       <h5>{{ skill.detail }}</h3> -->
+      
+      <span class="project-title">{{ skill.name }}</span>
+      <span class="project-tagline">{{ skill.detail }}</span>
 
 <!--       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
