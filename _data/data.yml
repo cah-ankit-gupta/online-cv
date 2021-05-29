@@ -152,7 +152,7 @@ skills:
         level: 98%
 
       - name: Cloud
-        - name: PCF
+      - level: 90%
 
       - name: HTML5 & CSS
         level: 95%
