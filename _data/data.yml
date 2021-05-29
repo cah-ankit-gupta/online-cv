@@ -130,7 +130,7 @@ skills:
         detail: Spring, Spring boot, JPA, Spring batch
 
       - name: Web Services
-      - detail: Rest, SOAP
+        detail: Rest, SOAP
 
       - name: Unit Test
         detail: Junit5, Spock
