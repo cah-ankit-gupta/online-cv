@@ -172,21 +172,21 @@ skills:
       - name: Front End - 
         detail: Angular, Visual Studio Code, Webpack, YSLOW
         
-      - name: Cloud
+      - name: Cloud - 
         detail: Pivotal Cloud Foundry, GCP, AWS, APIGEE
   
-      - name: Database
+      - name: Database - 
         detail: Postgres, Oralce, MySQL, Db2, Microsoft SQL Server
         
-      - name: DB client tool/IDE
+      - name: DB client tool/IDE - 
         detail: Dbeaver, Squirrel, Sqldbx, Oracle SQL developer, MySQL workbench, Data Studio
         
-      - name: DevSecOps
+      - name: DevSecOps - 
         detail: Concourse, Jenkin, Git, New relic, Splunk, Sonarqube, Varacode, Nexus, SauceLab, 
   
-      - name: Project Management
+      - name: Project Management - 
         detail: Jira, Confluence, Service Now, Trello, Teams, sharepoint
         
-      - name: Misc
+      - name: Misc - 
         detail: SOAP UI, Postman, WINSCP, puTTy, Fiddler, Apache Directory Studio
         
