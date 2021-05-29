@@ -123,31 +123,31 @@ skills:
     title: Skills
 
     toolset:
-      - name: Back End/Server Side Technologies
+      - name: Back End/Server Side Technologies - 
         detail: Java 11
 
       - name: Framework
-        detail: Spring, Spring boot, JPA, Spring batch
+        detail: Spring, Spring boot, JPA, Spring batch - 
 
-      - name: Web Services
+      - name: Web Services - 
         detail: Rest, SOAP
 
-      - name: Unit Test
+      - name: Unit Test - 
         detail: Junit5, Spock
   
-      - name: API Test
+      - name: API Test - 
         detail: Postman, RestAssured
 
-      - name: Browser Automation
+      - name: Browser Automation - 
         detail: Selenium, Geb and Spock
         
-      - name: Application/ Web Server
+      - name: Application/ Web Server - 
         detail: Tomcat, IBM WAS 8.5
 
-      - name: Build Tools
+      - name: Build Tools - 
         detail: Gradle, Maven, Ant
    
-      - name: Front End
+      - name: Front End - 
         detail: Angular, Visual Studio Code, Webpack, YSLOW
         
       - name: Cloud
