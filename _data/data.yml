@@ -126,8 +126,8 @@ skills:
       - name: Back End/Server Side Technologies - 
         detail: Java 11
 
-      - name: Framework
-        detail: Spring, Spring boot, JPA, Spring batch - 
+      - name: Framework - 
+        detail: Spring, Spring boot, JPA, Spring batch
 
       - name: Web Services - 
         detail: Rest, SOAP
