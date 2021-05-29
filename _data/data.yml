@@ -145,11 +145,11 @@ skills:
     title: Skills
 
     toolset:
-      - name: Back End/Server Side Technologies - 
-        detail: Java 11
+      - name: Programming Languages - 
+        detail: Java 11, Groovy, Angular
 
       - name: Framework - 
-        detail: Spring, Spring boot, JPA, Spring batch
+        detail: Spring, Spring boot, hibernate, Spring batch, Spring Security
 
       - name: Web Services - 
         detail: Rest, SOAP
@@ -170,10 +170,13 @@ skills:
         detail: Gradle, Maven, Ant
    
       - name: Front End - 
-        detail: Angular, Visual Studio Code, Webpack, YSLOW
+        detail: Angular, Visual Studio Code, Webpack, NPM, YSLOW
         
       - name: Cloud - 
-        detail: Pivotal Cloud Foundry, GCP, AWS, APIGEE
+        detail: Pivotal Cloud Foundry(PCF), Google Cloud Platform(GCP), AWS
+        
+      - name: API Management - 
+        detail: APIGEE, Amazon API gateway
   
       - name: Database - 
         detail: Postgres, Oralce, MySQL, Db2, Microsoft SQL Server
@@ -183,10 +186,13 @@ skills:
         
       - name: DevSecOps - 
         detail: Concourse, Jenkin, Git, New relic, Splunk, Sonarqube, Varacode, Nexus, SauceLab, 
-  
+ 
+      - name: Identity Management - 
+        detail: OKTA, Active Directory
+        
       - name: Project Management - 
-        detail: Jira, Confluence, Service Now, Trello, Teams, sharepoint
+        detail: Jira, Confluence, Service Now, Trello, Teams, sharepoint, Visio, LucidChart
         
       - name: Misc - 
-        detail: SOAP UI, Postman, WINSCP, puTTy, Fiddler, Apache Directory Studio
+        detail: SOAP UI, Postman, Fiddler, SAML Tracer, WINSCP, puTTy,  Apache Directory Studio, F5, Confio, Jmeter, LDAP, JWT, Jasypt
         
