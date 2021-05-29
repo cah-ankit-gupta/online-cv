@@ -129,19 +129,19 @@ skills:
 
     toolset:
       - name: Back End/Server Side Technologies
-        level: 98%
+        detail: Java 11
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Framework
+        level: Spring, Spring boot, JPA
 
-      - name: Cloud
-      - level: 90%
+      - name: Web Services
+      - level: Rest, SOAP
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Unit Test
+        level: Junit5, Spock
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Application/ Web Server
+        level: Tomcat, IBM WAS 8.5
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Build Tools
+        level: Gradle, Maven, Ant
