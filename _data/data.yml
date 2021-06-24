@@ -74,19 +74,27 @@ projects:
       below are the project deatils:
     assignments:
       - title: IDS
-        link: "#hook"
+        link: "https://idsboss.cardinalhealth.com"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
+      - title: Whirlybird
+        link: "https://idsboss.cardinalhealth.com"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        
       - title: CMS
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Content Management System. A responsive website template designed to help web developers/designers market their services."
 
       - title: Kinray
-        link: "#"
+        link: "https://kinrayweblink.cardinalhealth.com"
         tagline: "A responsive website template designed to help web developers/designers market their services."
         
       - title: Sustech
-        link: "#"
+        link: "https://portal.sustainabletechnologies.com"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Market Help
+        link: "https://market.cardinalhealth.com"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Flu Care
@@ -94,15 +102,15 @@ projects:
         tagline: "Ordering portal for flu vaccine. This application is used by customers to place flu vaccine orders only. Flu vaccine Demand is high in season so this application have custom allocation logic to determine how much quantity will be allocated to each customer."
 
       - title: 3PL
-        link: "#"
+        link: "https://3plservices.pharmarxorder.com"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
       - title: Nuctrac/Nuclear Department Management System
-        link: "#"
+        link: "https://nuctrac.cardinalhealth.com"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
   
       - title: Nuclear Web Ordering Portal
-        link: "#"
+        link: "https://npslogin.cardinalhealth.com"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
       - title: Isotrac/Nuclear Pharmacy Operations
