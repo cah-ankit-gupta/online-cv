@@ -139,15 +139,15 @@ projects:
         
       - title: CMS
         link: "#"
-        tagline: "Content Management System. A responsive website template designed to help web developers/designers market their services."
-
+        tagline: "Custom content management system for digital marketing. This application is used to market products on ordering sites. This application has preview and publish features along with dynamic templates."
+      
       - title: Kinray
         link: "https://kinrayweblink.cardinalhealth.com"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Portal to serve independent pharmacies with more than 3000 pharmaceutical products".
         
       - title: Sustech
         link: "https://portal.sustainabletechnologies.com"
-        tagline: "Portal to manage recycling of medical devices."
+        tagline: "Sustainable technologies portal allows to transact 3rd party reprocessed medical devices, track bank balance, order fulfillment and on-demand reporting.
 
       - title: Market Help
         link: "https://market.cardinalhealth.com"
@@ -159,9 +159,9 @@ projects:
 
       - title: 3PL
         link: "https://3plservices.pharmarxorder.com"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Customized portal per manufacturer to manage orders, returns, payment and history."
         
-      - title: Nuctrac/Nuclear Department Management System
+      - title: Nuclear Department Management System-Nuctrac
         link: "https://nuctrac.cardinalhealth.com"
         tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient scheudeling and management, inventory management, waste management, and health physics/tasks management. 
 "
@@ -170,17 +170,17 @@ projects:
         link: "https://npslogin.cardinalhealth.com"
         tagline: "Ordering portal for nuclear products order management. This application is used by hospital users to place the orders, track order status, invoice and reporting."
         
-      - title: Isotrac/Nuclear Pharmacy Operations
+      - title: Nuclear Pharmacy Operations-Isotrac
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Centralized solution for more than 200 nuclear pharmacies to help in performing pharmacy  Operations such as Order Management, Pharmacy Production, Inventory Management, Waste management, Reports etc."
  
       - title: Clinical Spine
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Application for NHS (UK health service). It's web application which allows the users to access a summary of a patient's Shared Patient Clinical Record and demographic details. This was used by both clinical users and non-clinical users"
         
       - title: Bus Portal
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Portal for all TCS employees across India for using the bus service."
 
 certifications:
       - item: Sun Certified Programmer , Standard Edition 5.0 (SCJP)
