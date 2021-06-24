@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: ymca5.ankit@gmail.com
     #phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     linkedin: ankit-g-ba1174b
     #xing: alandoe
     github: anki-gupta
@@ -113,8 +113,8 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 certifications:
-      - item: SCJP
-      - item: SCWCD
+      - item: Sun Certified Programmer for the Java 2 Platform, Standard Edition 5.0 (SCJP)
+      - item: Sun Certified Web Component Developer , Enterprise Edition 5 (SCWCD)  
 
 skills:
     title: Skills
