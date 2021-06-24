@@ -146,11 +146,11 @@ projects:
         
       - title: Sustech
         link: "https://portal.sustainabletechnologies.com"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Portal to manage recycling of medical devices."
 
       - title: Market Help
         link: "https://market.cardinalhealth.com"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Application to handle case management"
 
       - title: Flu Care
         link: "https://flucare.cardinalhealth.com"
@@ -162,11 +162,12 @@ projects:
         
       - title: Nuctrac/Nuclear Department Management System
         link: "https://nuctrac.cardinalhealth.com"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient scheudeling and management, inventory management, waste management, and health physics/tasks management. 
+"
   
       - title: Nuclear Web Ordering Portal
         link: "https://npslogin.cardinalhealth.com"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Ordering portal for nuclear products order management. This application is used by hospital users to place the orders, track order status, invoice and reporting."
         
       - title: Isotrac/Nuclear Pharmacy Operations
         link: "#"
