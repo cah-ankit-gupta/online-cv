@@ -38,6 +38,7 @@ career-profile:
     title: Career Profile
     summary: |
       12.9 years of experience in software deleopment with Tata Consultancy Services. Expertise in Java, Spring, spring boot, hibernate, SQL, DevSecOps and cloud.
+      
 education:
 
     - degree: Bachelor of Technology in Computers
@@ -48,10 +49,10 @@ education:
       university: S.J.P.Polytechnic
       time: 2002 - 2005
       
-experience/KEY RESPONSIBILITIES:
+experience:
     - role: #Tech Lead
       time: 2008 - Present
-      company: 
+      #company: 
       details: |
         End to End experience in various phases of project including  estimation, planning, desgin, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
           - Microservice Desgin using spring boot with cross cutting principles
