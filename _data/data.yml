@@ -90,8 +90,8 @@ projects:
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Flu Care
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "https://flucare.cardinalhealth.com"
+        tagline: "Ordering portal for flu vaccine. This application is used by customers to place flu vaccine orders only. Flu vaccine Demand is high in season so this application have custom allocation logic to determine how much quantity will be allocated to each customer."
 
       - title: 3PL
         link: "#"
