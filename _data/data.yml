@@ -37,7 +37,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      13 years of experience in software deleopment with Tata Consultancy Services in Health care domain. Expertise in Java, Spring, SQL, DevSecOps
+      12.9 years of experience in software deleopment with Tata Consultancy Services in Health care domain. Expertise in Java, Spring, spring boot, SQL, DevSecOps.
 education:
 
     - degree: Bachelor of Technology in Computers
@@ -51,7 +51,7 @@ education:
 experiences:
     - role: #Tech Lead
       time: 2008 - Present
-      company: TCS, USA
+      #company: TCS, USA
       details: |
         End to End experience in various phases of project including  estimation, planning, desgin, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
           - Microservice Desgin using spring boot with cross cutting principles
