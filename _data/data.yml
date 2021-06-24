@@ -68,6 +68,61 @@ experience/KEY RESPONSIBILITIES:
           - Identifying risk and conducting mitigation action planning.
           - Triage technical issues and lead towards solving problems
           
+skills:
+    title: Skills
+
+    toolset:
+      - name: Programming Languages - 
+        detail: Java 11, Groovy, Angular
+
+      - name: Framework - 
+        detail: Spring, Spring boot, hibernate, Spring batch, Spring Security
+
+      - name: Web Services - 
+        detail: Rest, SOAP
+
+      - name: Unit Test - 
+        detail: Junit5, Spock
+  
+      - name: API Test - 
+        detail: Postman, RestAssured
+
+      - name: Browser Automation - 
+        detail: Selenium, Geb and Spock
+        
+      - name: Application/ Web Server - 
+        detail: Tomcat, IBM WAS 8.5
+
+      - name: Build Tools - 
+        detail: Gradle, Maven, Ant
+   
+      - name: Front End - 
+        detail: Angular, Visual Studio Code, Webpack, NPM, YSLOW
+        
+      - name: Cloud - 
+        detail: Pivotal Cloud Foundry(PCF), Google Cloud Platform(GCP), AWS
+        
+      - name: API Management - 
+        detail: APIGEE, Amazon API gateway
+  
+      - name: Database - 
+        detail: Postgres, Oralce, MySQL, Db2, Microsoft SQL Server
+        
+      - name: DB client tool/IDE - 
+        detail: Dbeaver, Squirrel, Sqldbx, Oracle SQL developer, MySQL workbench, Data Studio
+        
+      - name: DevSecOps - 
+        detail: Concourse, Jenkin, Git, New relic, Splunk, Sonarqube, Varacode, Nexus, SauceLab, 
+ 
+      - name: Identity Management - 
+        detail: OKTA, Active Directory
+        
+      - name: Project Management - 
+        detail: Jira, Confluence, Service Now, Trello, Teams, sharepoint, Visio, LucidChart
+        
+      - name: Misc - 
+        detail: SOAP UI, Postman, Fiddler, SAML Tracer, WINSCP, puTTy,  Apache Directory Studio, F5, Confio, Jmeter, LDAP, JWT, Jasypt
+        
 projects:
     title: Projects
     intro: >
@@ -128,59 +183,3 @@ projects:
 certifications:
       - item: Sun Certified Programmer , Standard Edition 5.0 (SCJP)
       - item: Sun Certified Web Component Developer , Enterprise Edition 5 (SCWCD)  
-
-skills:
-    title: Skills
-
-    toolset:
-      - name: Programming Languages - 
-        detail: Java 11, Groovy, Angular
-
-      - name: Framework - 
-        detail: Spring, Spring boot, hibernate, Spring batch, Spring Security
-
-      - name: Web Services - 
-        detail: Rest, SOAP
-
-      - name: Unit Test - 
-        detail: Junit5, Spock
-  
-      - name: API Test - 
-        detail: Postman, RestAssured
-
-      - name: Browser Automation - 
-        detail: Selenium, Geb and Spock
-        
-      - name: Application/ Web Server - 
-        detail: Tomcat, IBM WAS 8.5
-
-      - name: Build Tools - 
-        detail: Gradle, Maven, Ant
-   
-      - name: Front End - 
-        detail: Angular, Visual Studio Code, Webpack, NPM, YSLOW
-        
-      - name: Cloud - 
-        detail: Pivotal Cloud Foundry(PCF), Google Cloud Platform(GCP), AWS
-        
-      - name: API Management - 
-        detail: APIGEE, Amazon API gateway
-  
-      - name: Database - 
-        detail: Postgres, Oralce, MySQL, Db2, Microsoft SQL Server
-        
-      - name: DB client tool/IDE - 
-        detail: Dbeaver, Squirrel, Sqldbx, Oracle SQL developer, MySQL workbench, Data Studio
-        
-      - name: DevSecOps - 
-        detail: Concourse, Jenkin, Git, New relic, Splunk, Sonarqube, Varacode, Nexus, SauceLab, 
- 
-      - name: Identity Management - 
-        detail: OKTA, Active Directory
-        
-      - name: Project Management - 
-        detail: Jira, Confluence, Service Now, Trello, Teams, sharepoint, Visio, LucidChart
-        
-      - name: Misc - 
-        detail: SOAP UI, Postman, Fiddler, SAML Tracer, WINSCP, puTTy,  Apache Directory Studio, F5, Confio, Jmeter, LDAP, JWT, Jasypt
-        
