@@ -52,7 +52,7 @@ education:
 experience:
     - role: #Tech Lead
       time: 2008 - Present
-      #company: 
+      company: 
       details: |
         End to End experience in various phases of project including  estimation, planning, desgin, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
           - Microservice Desgin using spring boot with cross cutting principles
