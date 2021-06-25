@@ -58,7 +58,7 @@ experiences:
           - Microservice Desgin using spring boot with cross cutting principles. 
           - Expertise in project planning, proposal, estimation and promising deliverables.
           - Application Architecture design and database deign.
-          - Desgined interfaces using messaging queue, rest services, MFT etc.
+          - Desgined interfaces using messaging queue(IBM Mq, Rabbit mq), rest services, MFT etc.
           - Evaulate tools and framework.
           - Code Review using coding standards and best practices to ensure quality.
           - Expertise in DevSecOps. build pipelines in concourse using YAML scripting including unit test, sonarqube, veracode, API testing, Browser testing, new relic, PCF depployment.
@@ -143,7 +143,7 @@ projects:
       
       - title: Kinray
         link: "https://kinrayweblink.cardinalhealth.com"
-        tagline: "Portal to serve independent pharmacies with more than 3000 pharmaceutical products."
+        tagline: "Portal to serve independent pharmacies and specialty pharmacies with wholesale distribution of more than 30000 pharmaceutical products(generic, branded, home health care and OTC products)."
         
       - title: Sustech
         link: "https://portal.sustainabletechnologies.com"
@@ -161,10 +161,13 @@ projects:
         link: "https://3plservices.pharmarxorder.com"
         tagline: "Customized portal per manufacturer to manage orders, returns, payment and history."
         
+      - title: Nuclear Data exchange-NDEX
+        link: "#"
+        tagline: "Nuclear Data exchange solution provides order, inventory and shipping information of nuclear products to external vendors via Rest API."
+        
       - title: Nuclear Department Management System-Nuctrac
         link: "https://nuctrac.cardinalhealth.com"
-        tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient scheudeling and management, inventory management, waste management, and health physics/tasks management. 
-"
+        tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient scheudeling and management, inventory management, waste management, and health physics/tasks management."
   
       - title: Nuclear Web Ordering Portal
         link: "https://npslogin.cardinalhealth.com"
