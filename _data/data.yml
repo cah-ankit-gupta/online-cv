@@ -55,19 +55,19 @@ experiences:
       company: 
       details: |
         End to End experience in various phases of project including  estimation, planning, desgin, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
-          - Microservice Desgin using spring boot with cross cutting principles
-          - Expertise in project planning, proposal, estimation and promising deliverables
-          - Application Architecture design and database deign
+          - Microservice Desgin using spring boot with cross cutting principles. 
+          - Expertise in project planning, proposal, estimation and promising deliverables.
+          - Application Architecture design and database deign.
           - Desgined interfaces using messaging queue, rest services, MFT etc.
-          - Evaulate tools and framework
+          - Evaulate tools and framework.
           - Code Review using coding standards and best practices to ensure quality.
-          - Expertise in DevSecOps. build pipelines in concourse using YAML scripting
+          - Expertise in DevSecOps. build pipelines in concourse using YAML scripting including unit test, sonarqube, veracode, API testing, Browser testing, new relic, PCF depployment.
           - Experience in high volume, mission critical applications.
-          - Application performance analysis and fix using new relic, confio, query tuning, indexing, pooling
+          - Application performance analysis and fix using new relic, confio, query tuning, indexing, pooling.
           - Acquiring , allocating and on boarding of team members. Mentored their technical and professional progress. Handled almost 80 resources. 
           - Managed agile software delivery teams and worked closedly with the product owner. Participation in agile ceremonies: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
           - Identifying risk and conducting mitigation action planning.
-          - Triage technical issues and lead towards solving problems
+          - Triage technical issues and lead towards solving problems.
           
 skills:
     title: Skills
