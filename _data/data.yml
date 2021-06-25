@@ -179,7 +179,7 @@ projects:
  
       - title: Clinical Spine
         link: "#"
-        tagline: "Application for NHS (UK health service). It's web application which allows the users to access a summary of a patient's Shared Patient Clinical Record and demographic details. This was used by both clinical users and non-clinical users."
+        tagline: "Application for NHS (UK health service) which allows users to access a summary of a patient's Shared Patient Clinical Record and demographic details. This was used by both clinical users and non-clinical users."
         
       - title: Bus Portal
         link: "#"
