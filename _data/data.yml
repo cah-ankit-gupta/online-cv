@@ -131,11 +131,11 @@ projects:
     assignments:
       - title: IDS
         link: "https://idsboss.cardinalhealth.com"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Application for hosptial pharmacy solution to perform operations such as customer onboarding, contract management, GPO, AP, AR, reporting etc."
 
       - title: Whirlybird
-        link: "https://idsboss.cardinalhealth.com"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "#"
+        tagline: "Portal for pick, pack and ship."
         
       - title: CMS
         link: "#"
