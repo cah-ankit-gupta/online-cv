@@ -54,7 +54,7 @@ experiences:
       time: 2008 - Present
       company: 
       details: |
-        End to End experience in various phases of project including  estimation, planning, desgin, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
+        End to End experience in various phases of project including  estimation, planning, design, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
           - Microservice Design using spring boot with cross cutting principles. 
           - Expertise in project planning, proposal, estimation and promising deliverables.
           - Application Architecture design and database design.
@@ -133,7 +133,7 @@ projects:
         link: "https://idsboss.cardinalhealth.com"
         tagline: "Application for hospital pharmacy solution to perform operations such as customer onboarding, contract management, GPO, AP, AR, reporting etc."
 
-      - title: Whirlybird
+      - title: Navix Rx
         link: "#"
         tagline: "Solution to pick, pack and ship for hospital pharmacies."
         
@@ -167,7 +167,7 @@ projects:
         
       - title: Nuclear Department Management System-Nuctrac
         link: "https://nuctrac.cardinalhealth.com"
-        tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient schedueling and management, inventory management, waste management, and health physics/tasks management."
+        tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient scheduling and management, inventory management, waste management, and health physics/tasks management."
   
       - title: Nuclear Web Ordering Portal
         link: "https://npslogin.cardinalhealth.com"
