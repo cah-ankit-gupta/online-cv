@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ankit Gupta
-    tagline: Tech lead
+    tagline: Java Tech lead
     #avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,7 +37,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      12.9 years of experience in software deleopment with Tata Consultancy Services. Expertise in Java, Spring, spring boot, hibernate, SQL, DevSecOps and cloud.
+      12.9 years of experience in software development with Tata Consultancy Services. Expertise in Java, Spring, spring boot, hibernate, SQL, DevSecOps and cloud.
       
 education:
 
@@ -55,17 +55,17 @@ experiences:
       company: 
       details: |
         End to End experience in various phases of project including  estimation, planning, desgin, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
-          - Microservice Desgin using spring boot with cross cutting principles. 
+          - Microservice Design using spring boot with cross cutting principles. 
           - Expertise in project planning, proposal, estimation and promising deliverables.
-          - Application Architecture design and database deign.
-          - Desgined interfaces using messaging queue(IBM Mq, Rabbit mq), rest services, MFT etc.
-          - Evaulate tools and framework.
-          - Code Review using coding standards and best practices to ensure quality.
-          - Expertise in DevSecOps. build pipelines in concourse using YAML scripting including unit test, sonarqube, veracode, API testing, Browser testing, new relic, PCF depployment.
+          - Application Architecture design and database design.
+          - Designed interfaces using messaging queue(IBM Mq, Rabbit mq), rest services, MFT etc.
+          - Evaluate tools and framework.
+          - Code Review using coding standards and best practices ensuring quality.
+          - Expertise in DevSecOps. Build pipelines in concourse using YAML scripting including unit test, sonarqube, veracode, API testing, Browser testing, new relic, PCF depployment.
           - Experience in high volume, mission critical applications.
           - Application performance analysis and fix using new relic, confio, query tuning, indexing, pooling.
-          - Acquiring , allocating and on boarding of team members. Mentored their technical and professional progress. Handled almost 80 resources. 
-          - Managed agile software delivery teams and worked closedly with the product owner. Participation in agile ceremonies: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
+          - Acquiring, allocating and on boarding of team members. Mentored their technical and professional progress. Handled almost 80 resources. 
+          - Managed agile software delivery teams and worked closely with the product owner. Participation in agile ceremonies: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
           - Identifying risk and conducting mitigation action planning.
           - Triage technical issues and lead towards solving problems.
           
@@ -131,11 +131,11 @@ projects:
     assignments:
       - title: IDS
         link: "https://idsboss.cardinalhealth.com"
-        tagline: "Application for hosptial pharmacy solution to perform operations such as customer onboarding, contract management, GPO, AP, AR, reporting etc."
+        tagline: "Application for hospital pharmacy solution to perform operations such as customer onboarding, contract management, GPO, AP, AR, reporting etc."
 
       - title: Whirlybird
         link: "#"
-        tagline: "Solution to pick, pack and ship for hosptial pharmacies."
+        tagline: "Solution to pick, pack and ship for hospital pharmacies."
         
       - title: CMS
         link: "#"
@@ -155,7 +155,7 @@ projects:
 
       - title: Flu Care
         link: "https://flucare.cardinalhealth.com"
-        tagline: "Ordering portal for flu vaccine. This application is used by customers to place flu vaccine orders only. Flu vaccine Demand is high in season so this application have custom allocation logic to determine how much quantity will be allocated to each customer."
+        tagline: "Ordering portal for flu vaccine. This application is used by customers to place flu vaccine orders only. Flu vaccine Demand is high in season so this application has custom allocation logic to determine how much quantity will be allocated to each customer."
 
       - title: 3PL
         link: "https://3plservices.pharmarxorder.com"
@@ -167,7 +167,7 @@ projects:
         
       - title: Nuclear Department Management System-Nuctrac
         link: "https://nuctrac.cardinalhealth.com"
-        tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient scheudeling and management, inventory management, waste management, and health physics/tasks management."
+        tagline: "Integrated cloud solution for nuclear medicine departments to help improve workflow, manage compliance with regulatory requirements and improve patient safety. This web application is used by hospital users for patient schedueling and management, inventory management, waste management, and health physics/tasks management."
   
       - title: Nuclear Web Ordering Portal
         link: "https://npslogin.cardinalhealth.com"
